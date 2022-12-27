@@ -10,7 +10,7 @@
         window.location.href = '/home000123456789';
         
         }
-      setTimeout(redirect, 2500); // 5 seconds
+      setTimeout(redirect, 4500); // 5 seconds
     </script>
 <style type="text/css">
 .fadein {
@@ -20,7 +20,7 @@ body
 {
 
   
-     background-image: url('/FPBG2.jpg');
+     background-image: url('/FPBG5.jpg');
       background-repeat: no-repeat;
       background-size: cover;
   

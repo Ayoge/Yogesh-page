@@ -6,7 +6,7 @@
     
     body
 {
-width: 1900px; /* Set the width of the body */
+width: 2400px; /* Set the width of the body */
     margin: auto; /* Center the body horizontally */
     text-align: center;
     color:Blue;
